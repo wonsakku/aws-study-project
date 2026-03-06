@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: aws-study-product
+
+server:
+  port: 9090

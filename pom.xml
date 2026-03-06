@@ -19,6 +19,7 @@
     </properties>
     <modules>
         <module>aws-study-user</module>
+        <module>aws-study-product</module>
     </modules>
 
 </project>
