@@ -14,7 +14,7 @@ public class HelloController {
 
     @GetMapping
     public String hello(){
-        log.info("Hello AWS");
-        return "Hello AWS";
+        log.info("Hello AWS - PRODUCT");
+        return "Hello AWS - PRODUCT";
     }
 }
